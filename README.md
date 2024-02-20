@@ -1,5 +1,4 @@
-Simulação de Queda de Areia em JavaScript
-Descrição do Projeto:
+
 
 Este projeto é uma simulação de queda de areia construída usando React e JavaScript. Ele oferece uma experiência visual onde os usuários podem interagir com uma grade de blocos, fazendo-os cair sob a gravidade e interagir uns com os outros de acordo com princípios físicos.
 
