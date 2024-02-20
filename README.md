@@ -2,10 +2,7 @@
 
 Este projeto é uma simulação de queda de areia construída usando React e JavaScript. Ele oferece uma experiência visual onde os usuários podem interagir com uma grade de blocos, fazendo-os cair sob a gravidade e interagir uns com os outros de acordo com princípios físicos.
 
-Principais Características:
-
-Grade Interativa: Os usuários podem clicar em células vazias na grade para colocar blocos coloridos, com cores aleatórias atribuídas no primeiro clique.
-Mecânica de Queda: Os blocos caem para baixo até colidirem com outro bloco ou com o fundo da grade.
+##
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
